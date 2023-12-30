@@ -1,0 +1,105 @@
+{
+  "allcommand": [
+    "Menu",
+    "Allmenu"
+  ],
+  "anonymous": [],
+  "blockcmd": [],
+  "banned": [],
+  "premium": [],
+  "claim": [],
+  "data": [
+    {
+      "name": "premium",
+      "id": []
+    },
+    {
+      "name": "commands",
+      "id": []
+    },
+    {
+      "name": "limit",
+      "id": []
+    }
+  ],
+  "sewa": [],
+  "antispam": [],
+  "dashboard": [
+    {
+      "cmd": "Menu",
+      "succes": 5,
+      "failed": 0
+    },
+    {
+      "cmd": "Allmenu",
+      "succes": 2,
+      "failed": 0
+    }
+  ],
+  "listerror": [],
+  "hittoday": [
+    {
+      "id": "run",
+      "expired": 1704002470890,
+      "totalcmd": 7
+    }
+  ],
+  "clearchat": [],
+  "users": {
+    "6281272275593@s.whatsapp.net": {
+      "name": "C X S",
+      "id": "6281272275593",
+      "date": "30 Desember 2023",
+      "exp": 100,
+      "level": 1,
+      "hit": 7,
+      "balance": 1000,
+      "limit": 30,
+      "glimit": 30,
+      "serial": "CZHM",
+      "lastclaim": 0,
+      "afk": -1,
+      "pc": 0,
+      "grade": "Newbie",
+      "autolevelup": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363207705666201@g.us": {
+      "name": "SkyLands Botz",
+      "add": 0,
+      "welcome": false,
+      "detect": true,
+      "sWelcome": "",
+      "sBye": "",
+      "sPromote": "",
+      "sDemote": "",
+      "desc": true,
+      "descUpdate": true,
+      "autostiker": false,
+      "antilink": true,
+      "antilinkgc": false,
+      "antidelete": false,
+      "antiasing": false,
+      "banchat": false,
+      "expired": 0,
+      "antibadword": true,
+      "antispam": true,
+      "antitroli": true,
+      "antivirtex": true,
+      "antiwame": false,
+      "antihidetag": false,
+      "viewonce": true,
+      "nsfw": false,
+      "clear": false,
+      "clearTime": 0,
+      "stiker": false,
+      "antiLink": true,
+      "antiBadword": true
+    }
+  },
+  "settings": {},
+  "kickon": {},
+  "others": {}
+}
